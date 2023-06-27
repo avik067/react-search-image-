@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+img {
+  height: 200px;
+  width: 300px;
+}
+.img-container {
+  margin: 8px;
+  list-style: none;
+}
